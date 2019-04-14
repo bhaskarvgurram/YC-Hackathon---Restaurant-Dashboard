@@ -1,0 +1,25 @@
+.alert-active {
+    display: block;
+}
+
+.alert-inactive {
+    display: none;
+}
+
+.alert-main {
+    position: fixed;
+    width: 300px;
+    top: 80px;
+    right: 20px;
+    background: #fff;
+    border-radius: 0;
+    border: 1px solid #d7d7e6;
+
+}
+
+.alert-body {
+    
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+}
